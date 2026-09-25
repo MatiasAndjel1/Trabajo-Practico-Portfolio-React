@@ -3,7 +3,7 @@ function Footer() {
  
   return (
     <footer className="footer">
-      <p>Matías Andjel — Estudiante de Programacion</p>
+      <p>Matías Andjel — Estudiante de Programación</p>
       <div className="footer-links">
         <a href="https://github.com/MatiasAndjel1" target="_blank" rel="noreferrer">
           GitHub
